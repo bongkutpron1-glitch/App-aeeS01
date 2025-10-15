@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ra hi du ra hi du
+=======
+dhgedjcsl
+
+>>>>>>> fa6494003a23ebac80e98b36d4db2021919a7243
